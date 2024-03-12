@@ -27,7 +27,7 @@ Google Search Filter and Clean-up is a Tampermonkey script designed to enhance y
 Edit the `sitesToExclude` array in the script to specify the sites you want to exclude from search results.
 
 ## License
-This project is open-source and available under the Apache 2.0 License. See the LICENSE file for more details.
+This project is open-source and available under the MIT License. See the LICENSE file for more details.
 
 ## Author
 SaFteiNZz
